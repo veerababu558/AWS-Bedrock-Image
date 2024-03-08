@@ -10,13 +10,10 @@ AWS Account
 
 ## AWS Services:
 
-1. API Gateway
-
-2. Lambda 
-
-3. Amazon Bedrock
-
-4. S3
+. API Gateway
+. Lambda 
+. Amazon Bedrock
+. S3
 
 ## Project Architecture:
 
