@@ -43,7 +43,7 @@ Steps:
 
 ![Image Generation using Amazon Bedrock-Page-9 drawio](https://github.com/veerababu558/AWS-Bedrock-Image/assets/44125493/3669517d-328f-402b-8c02-6a464b3df7c1)
 
-5. Finally, I downloaded the image using the pre-signed URL and viewed it using the Paint application
+5. Finally, downloaded the image using the pre-signed URL and viewed it using the Paint application
 
 ![Image Generation using Amazon Bedrock-Page-11 drawio](https://github.com/veerababu558/AWS-Bedrock-Image/assets/44125493/b1869d04-80ce-4997-b620-1de643d6951c)
 ![Image Generation using Amazon Bedrock-Page-12 drawio](https://github.com/veerababu558/AWS-Bedrock-Image/assets/44125493/17e155ee-851a-4195-a594-90200b05582f)
