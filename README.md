@@ -27,7 +27,8 @@ Steps:
 
 1. Created an S3 bucket “s3-bedrock-bucket”  to store images. Below is the screen shot.
    
-![Image Generation using Amazon Bedrock-Page-2 drawio](https://github.com/veerababu558/AWS-Bedrock-Image/assets/44125493/3a90c53d-f7f3-417b-a3a7-f8387ed045b6)
+![Image Generation using Amazon Bedrock-Page-2 drawio](https://github.com/veerababu558/AWS-Bedrock-Image/assets/44125493/d07be35b-5809-418f-bbf2-ddbdce1d09d0)
+
 
 2. Developed a Lambda function to receive prompts and utilize Amazon Bedrock for Image Generation, using the Stability.AI foundation model. The Lambda then saves the generated image to the S3 bucket and generates a pre-signed URL.
 ![Image Generation using Amazon Bedrock-Page-3 drawio](https://github.com/veerababu558/AWS-Bedrock-Image/assets/44125493/2b108f3e-29a0-4bd3-a8e1-3a660564f2aa)
