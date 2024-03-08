@@ -2,12 +2,18 @@
 
 ## Project Overview:
 
-## Project Overview:
-
-This project showcases the implementation of continuous integration using AWS CodeBuild and AWS CodePipeline
+This project demonstrates the Image generation using Amazon Bedrock using Stability AI foundation model.
 
 ## Prerequisites:
 
-AWS Account
-GitHub Account
-DockerHub Account
+AWS Account 
+
+## AWS Services:
+
+API Gateway
+Lambda 
+Amazon Bedrock
+S3
+
+## Project Architecture:
+
