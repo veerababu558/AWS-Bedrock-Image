@@ -20,3 +20,8 @@ AWS Account
 
 ## Project Architecture:
 
+![image](https://github.com/veerababu558/AWS-Bedrock-Image/assets/44125493/52f8ab6a-b93c-4dc2-81e4-16bfe34af88f)
+
+
+
+
