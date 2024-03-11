@@ -33,7 +33,7 @@ Steps:
 ![Image Generation using Amazon Bedrock-Page-3 drawio](https://github.com/veerababu558/AWS-Bedrock-Image/assets/44125493/5647c2c6-d99f-4fd6-83f0-c6da854e9115)
 ![Image Generation using Amazon Bedrock-Page-4 drawio](https://github.com/veerababu558/AWS-Bedrock-Image/assets/44125493/e7623929-3865-4f1d-acb1-3a9f58d3f740)
 
-3. Configured an API Gateway to handle URL query parameters and Mapping templates.
+3. Configured an API Gateway to handle URL query parameters and Mapping templates with Lambda integration.
    
 ![Image Generation using Amazon Bedrock-Page-5 drawio](https://github.com/veerababu558/AWS-Bedrock-Image/assets/44125493/2acd5354-bb6b-431c-b207-46b585d8a22d)
 ![Image Generation using Amazon Bedrock-Page-6 drawio](https://github.com/veerababu558/AWS-Bedrock-Image/assets/44125493/45342754-c454-4c3d-8de5-99c5504ca502)
